@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "fabulou966",
+  "repo": "container-uoz0lwa",
+  "name": "fabulou966",
+}
